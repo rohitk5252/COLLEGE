@@ -1,0 +1,15 @@
+body{
+    background-image: url("gow.jpg");
+}
+table,
+th,
+td {
+  border: 1px solid black;
+}
+th,
+td {
+  padding: 15px;
+}
+.wt {
+  background: linear-gradient(#ffafbd, #ffc3a0);
+}
